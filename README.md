@@ -7,6 +7,7 @@ Chaque salarié a des membres de la famille qui ont eux aussi un nom - prenom - 
 L'entreprise possedes plusieurs service, qui sont diriger par un employee et qui en contiennent plusieurs autres (services).
 Chaque employee peut avoir plusieurs services
 Merci de faire votre schema en anglais
+Response : Added to src/resources/db.sql
 
 Exercice 2 - Code / Scripting
 Livrable : .java 
